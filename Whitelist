@@ -1,6 +1,6 @@
 return {
     WhitelistedIDS = {
-        7132183820,
+        87654321,
     },
     BlacklistedIDS = {
         12345678,
