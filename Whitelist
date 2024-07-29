@@ -6,7 +6,7 @@ return {
         -- Add other whitelisted IDs here
     },
     BlacklistedIDS = {
-        4728794629,
+        7132183820,
         -- Add other blacklisted IDs here
     }
 }
