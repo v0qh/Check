@@ -1,0 +1,12 @@
+-- File: Source.lua
+
+return {
+    WhitelistedIDS = {
+        4728794629,
+        -- Add other whitelisted IDs here
+    },
+    BlacklistedIDS = {
+        12345678,
+        -- Add other blacklisted IDs here
+    }
+}
