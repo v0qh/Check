@@ -1,12 +1,8 @@
--- File: Source.lua
-
 return {
     WhitelistedIDS = {
         12345678,
-        -- Add other whitelisted IDs here
     },
     BlacklistedIDS = {
-        7132183820,
-        -- Add other blacklisted IDs here
+        12345678,
     }
 }
