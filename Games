@@ -1,4 +1,4 @@
 return {
     Games = {
         [11815767793] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/v0qh/Check/main/UltBG_Exec'))()",
-    },
+    }
