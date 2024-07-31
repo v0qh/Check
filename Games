@@ -3,5 +3,8 @@ return {
         [11815767793] = function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/v0qh/Check/main/UltBG_Exec'))()
         end,
+[537413528] = function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/v0qh/Check/main/BABFT'))()
+        end,
     }
 }
