@@ -2,7 +2,7 @@ return {
     PrimaryKey = {
         "X9HUB3F8NKL2QW7AHI2K"
     }
-    PremiumKeys = {"X9HUBP42SW0WUJXZXDQ1" -- Discord UserID : 1145995905569407006,"X9HUB08JM1S3W2INI1OX", -- Discord UserID : 1145995905569407006
-        "X9HUB3GXO4K81377ZW2G", -- Discord UserID : 1145995905569407006
+    PremiumKeys = {
+        "X9HUBP42SW0WUJXZXDQ1", -- Discord UserID : 1145995905569407006
     }
 }
