@@ -4,5 +4,7 @@ return {
     },
     PremiumKeys = {
         "X9HUB3GXO4K81377ZW2G", -- Discord UserID : 1145995905569407006
-    }
+    ,
+    "X9HUBL1FSKHS63157MYD" -- Discord UserID : 1145995905569407006
+}
 }
